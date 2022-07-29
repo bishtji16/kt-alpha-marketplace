@@ -1,6 +1,15 @@
-# NFT Marketplace Initial
+# KT-Alpha Marketplace
 
-This repo is the starting point of the Front-end section of this [Full-stack Ethereum Development course][course]
+Make sure you are in the main folder i.e. kt-alpha-marketplace
 
+If not then do 
+cd kt-alpha-marketplace
 
-[course]:https://www.youtube.com/playlist?list=PLClcacTLMggPDj8g7vfxZeW6F9gB1VDhA
+## Step1
+Rename .env.example to .env
+
+## Step2
+Run command yarn 
+
+## Step 3
+Run command yarn dev
